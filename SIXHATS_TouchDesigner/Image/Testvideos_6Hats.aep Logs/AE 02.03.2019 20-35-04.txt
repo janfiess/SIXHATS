@@ -1,0 +1,17 @@
+Adobe After Effects v15.0.1 Windows 64 render log for project “Testvideos_6Hats.aep”
+
+Rendering started on 02.03.2019 at 20:35:04
+
+  02.03.2019 20:35:04: Starting composition “Comp 4”.
+
+  Output To: C:\Users\ffiess\Google Drive\_GO FOR IT_ AT\RnD\TouchDesigner\GoForIt3\Image\colorchange4.mov  After Effects warning: Failed to write XMP metadata  02.03.2019 20:35:19: Finished composition “Comp 4”.
+
+
+  02.03.2019 20:35:19: Starting composition “Comp 3”.
+
+  Output To: C:\Users\ffiess\Google Drive\_GO FOR IT_ AT\RnD\TouchDesigner\GoForIt3\Image\colorchange3.mov  After Effects warning: Failed to write XMP metadata  02.03.2019 20:35:36: Finished composition “Comp 3”.
+
+
+  Total Time Elapsed: 27 Seconds
+Log closed on 02.03.2019 at 20:35:36
+

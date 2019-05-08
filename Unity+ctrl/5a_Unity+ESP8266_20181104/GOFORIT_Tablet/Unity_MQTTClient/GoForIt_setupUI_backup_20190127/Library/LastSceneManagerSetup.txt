@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/GoForIt_201901272.unity
+  isLoaded: 1
+  isActive: 1
